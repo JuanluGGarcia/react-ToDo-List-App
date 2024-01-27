@@ -19,13 +19,13 @@ const StyledTodoContainer = styled.div`
     /* background-color: orange; */
 `;
 
-const StyledTasksContainer = styled.div`
-    padding: .5rem 2rem;
-    width: 100%;
-    border: 1px solid #000;
-    border-radius: 5px;
-    background-color: #FFF;
-`;
+// const StyledTasksContainer = styled.div`
+//     padding: .5rem 2rem;
+//     width: 100%;
+//     border: 1px solid #000;
+//     border-radius: 5px;
+//     background-color: #FFF;
+// `;
 
 const StyledFilterContainer = styled.div`
     width: 100%;
@@ -40,7 +40,7 @@ const StyledButtonContainer = styled.div`
     gap: .25rem;
 `;
 
-export { StyledWrapper, StyledTodoContainer, StyledTasksContainer, StyledFilterContainer, StyledButtonContainer };
+export { StyledWrapper, StyledTodoContainer, StyledFilterContainer, StyledButtonContainer };
 
 
 
